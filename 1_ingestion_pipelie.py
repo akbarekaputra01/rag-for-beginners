@@ -6,7 +6,7 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_chroma import Chroma
 from dotenv import load_dotenv
 
-load_dotenv()
+# load_dotenv()
 
 def load_documents(docs_path="docs"):
     """load all text files from the docs directory"""
