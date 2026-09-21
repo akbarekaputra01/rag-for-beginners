@@ -1,0 +1,21 @@
+Profil Akbar Eka Putra: Eksplorasi Teknologi, Pengembangan Perangkat Lunak, dan Kecerdasan Buatan
+
+Akbar Eka Putra adalah seorang pembelajar teknologi yang antusias, khususnya dalam bidang pengembangan perangkat lunak dan kecerdasan buatan (AI). Saat ini, Akbar berstatus sebagai mahasiswa program studi Ilmu Komputer di Universitas Bina Nusantara (BINUS University) dan tergabung dalam program beasiswa PPTI BCA (Batch 22). Ia memiliki minat mendalam pada pengembangan aplikasi berbasis data, integrasi Large Language Models (LLM), serta eksplorasi arsitektur RAG (Retrieval-Augmented Generation).
+
+Kompetensi teknis Akbar sangat komprehensif, mencakup pengembangan aplikasi web dan mobile hingga data science. Dalam pengembangan perangkat lunak, ia terbiasa menggunakan framework dan teknologi terkini seperti Laravel, React, Vue, FastAPI, Vite, Tailwind CSS, serta Android SDK. Ia mengelola alur kerjanya melalui lingkungan Linux maupun macOS, dengan memanfaatkan tools infrastruktur modern seperti Docker, VirtualBox, VMware, XAMPP, dan Git.
+
+Dalam ranah kecerdasan buatan dan machine learning, Akbar dikenal proaktif mencari solusi teknis dan gemar bereksperimen. Selain mahir menggunakan pustaka Python seperti LangChain untuk rekayasa LLM, ia juga aktif mengeksplorasi ekosistem AI coding assistants dan API routers seperti 9router, Anthropic's Claude API, Kiro AI, dan Cline. Pemahaman analitiknya diperkuat dengan kemampuan merancang model machine learning—mulai dari regresi, algoritma clustering, Naive Bayes, Random Forest, decision trees, hingga neural networks menggunakan bahasa pemrograman Python dan R.
+
+Komitmennya untuk membangun solusi AI yang relevan di industri dibuktikan melalui berbagai rekam jejak proyek nyata:
+
+Sublens (September 2025): Pengembangan sistem penerjemahan bahasa isyarat yang sejalan dengan inisiatif SDG 10, memanfaatkan teknologi computer vision landmarks dari MediaPipe dan algoritma klasifikasi Random Forest.
+
+Nostressia / iMood (Oktober 2025 - Januari 2026): Perancangan arsitektur sistem, pipeline machine learning, dan API backend untuk aplikasi web yang mampu memprediksi serta memperkirakan tingkat stres mahasiswa.
+
+Aldes Burger (Mei 2026): Memimpin konseptualisasi teknis dan bisnis untuk platform pemesanan direct-to-consumer, yang menampilkan fitur pembuat burger interaktif berbasis gamifikasi bernama "The Kitchen".
+
+Selain berkarya di bidang rekayasa perangkat lunak, Akbar juga memiliki ketertarikan di bidang riset akademis. Pada pertengahan tahun 2026, ia menjadi salah satu penulis pendamping untuk naskah riset bertajuk "Comparative Analysis of Infinite Scroll and Pagination Visual Interfaces on Spatial Memory in Mobile Digital Libraries", yang ditujukan untuk konferensi internasional terindeks Scopus.
+
+Di luar ranah teknis, Akbar memiliki kapasitas kepemimpinan dan manajerial yang solid. Ia pernah menjabat sebagai Koordinator Kesiswaan & Kedisiplinan untuk kelasnya, serta mengambil peran sebagai Person in Charge (PIC) Acara dalam kepanitiaan Bakti Sosial (BAKSOS) PPTI/PPBP 2026, di mana ia merumuskan inisiatif akuntabilitas lintas divisi. Memasuki bulan September 2026, Akbar mulai mengaplikasikan pengetahuannya di dunia korporat melalui program enrichment di Bank Central Asia (BCA), ditempatkan pada Biro UAT C di Wisma Asia.
+
+Fokus utamanya saat ini mencakup peningkatan kemampuan pemrograman tingkat lanjut, pemahaman mendalam tentang alur kerja data pipeline, serta implementasi basis data vektor (vector databases) untuk aplikasi cerdas. Di waktu luangnya, ia menyeimbangkan aktivitas dengan rutinitas kebugaran fisik, termasuk olahraga pagi, dan memiliki hobi mengevaluasi spesifikasi teknis sepatu lari seperti Hoka Mach 6 dan Adidas Duramo.
